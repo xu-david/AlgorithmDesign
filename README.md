@@ -1,2 +1,2 @@
-# AlgorithmDesign
-Different implementations of common algorithms for homework
+# Algorithm Design
+Different implementations of common algorithms from CLRS
